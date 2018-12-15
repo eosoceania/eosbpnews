@@ -1,0 +1,24 @@
+{
+  "name": "eosbpnews-bot-v1.0.0",
+  "version": "3.0.0",
+  "description": "bot for eosbpnews",
+  "main": "eosbpnews.js",
+  "scripts": {
+    "start": "node ./eosbpnews.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eosoceania/eosbpnews.git"
+  },
+  "author": "cryptonik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eosoceania/eosbpnews.git"
+  },
+  "homepage": "https://github.com/eosoceania/eosbpnews.git#readme",
+  "dependencies": {
+    "seedrandom": "^2.4.3",
+    "steem": "^0.7.1"
+  }
+}
