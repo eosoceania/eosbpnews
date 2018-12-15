@@ -1,6 +1,5 @@
 {
   "env": {
-    "POSTING_KEY": "@posting-key"
+    "STEEMPOSTINGKEY": "@steem-key"
   }
 }
-
