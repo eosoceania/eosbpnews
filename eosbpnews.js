@@ -21,7 +21,7 @@ const MESSAGE='I just resteemed your post!<br><br> Why? @eosbpnews aggregates up
 var blacklist = ['mutiarahmi','srimulyani','adam.smit'];
 
 // WHITELIST
-var whitelist = ['eosoceania','questingtw'];
+var whitelist = ['eosoceania','eosnewyork','eos-canada','eos42','dan','dantheman','eosauthority','cryptolions','eoscostarica','eosargentina','eosnation','greymass','eosamsterdam','genereos','meetone','eosgermany','hibitfish','eos-asia','sheos','eosflare'];
 //START
 
       console.log('Bot started. Checking transactions, listening to Block Producers... ');
