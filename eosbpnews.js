@@ -21,7 +21,7 @@ const MESSAGE='I just resteemed your post!<br><br> Why? @eosbpnews aggregates up
 var blacklist = ['mutiarahmi','srimulyani','adam.smit'];
 
 // WHITELIST
-var whitelist = ['testingsteem','eosoceania','eosnewyork','eos-canada','eos42','dan','dantheman','eosauthority','cryptolions','eoscostarica','eosargentina','eosnation','greymass','eosamsterdam','genereos','meetone','eosgermany','hibitfish','eos-asia','sheos','eosflare'];
+var whitelist = ['eos.sweden','auroraeos','blockmatrix','eossouthafrica','acroeos12345','eosgravity','eoslaomao','eosvenezuela','tokenika','eoseoul','eosdublin','realitybytes','eosdac','starteos','eosrio','cypherglass','testingsteem','eosoceania','eosnewyork','eos-canada','eos42','eosauthority','cryptolions','eoscostarica','eosargentina','eosnation','greymass','eosamsterdam','genereos','meetone','eosgermany','hibitfish','eos-asia','sheos','eosflare'];
 //START
 
       console.log('Bot started. Checking transactions, listening to Block Producers... ');
@@ -91,7 +91,7 @@ try{
 
                                     else{
 
-                                      console.log('User not on list, post ignored.');
+                                      //console.log('User not on list, post ignored.');
 
                                     }
 
