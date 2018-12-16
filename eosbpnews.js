@@ -15,7 +15,7 @@ const {createServer} = require('http').createServer().listen(3000)
       const ACCOUNT_KEY = process.env.STEEMPOSTINGKEY;
 /****************************************************************************************************************************************************/
 
-const MESSAGE='I just resteemed your post!<br><br> Why? @eosbpnews aggregates updates of active EOS BPs and conviniently serves them in one place!<br><hr><sub><i>This service is provided by @eosoceania. If you think we are doing useful work, consider supporting us with a vote :) <br>For any inquiries/issues please reach out on <a href="https://t.me/joinchat/IB6xJg7tmo7v4knEJyQRSw">Telegram</a> or <a href="https://discord.gg/eAdBZBv">Discord</a>.</i></sub>';
+const MESSAGE='I just resteemed your post!<br><br> Why? @eosbpnews aggregates updates of active EOS BPs and conveniently serves them in one place!<br><hr><sub><i>This service is provided by @eosoceania. If you think we are doing useful work, consider supporting us with a vote :) <br>For any inquiries/issues please reach out on <a href="https://t.me/joinchat/IB6xJg7tmo7v4knEJyQRSw">Telegram</a> or <a href="https://discord.gg/eAdBZBv">Discord</a>.</i></sub>';
 
 // BLACKLIST
 var blacklist = ['mutiarahmi','srimulyani','adam.smit'];
