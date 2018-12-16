@@ -84,6 +84,8 @@ try{
 
                                             console.log('Tag found in: ',link, ' by: ', author);
 
+					   //Need additional checkpoint for resteemed already?
+
                                             sendResteem(ACCOUNT_NAME, ACCOUNT_KEY, author, link);
                                             postComment(ACCOUNT_NAME,ACCOUNT_KEY,author,link);
 
