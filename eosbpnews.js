@@ -21,7 +21,7 @@ const MESSAGE='I just resteemed your post!<br><br> Why? @eosbpnews aggregates up
 var blacklist = ['mutiarahmi','srimulyani','adam.smit'];
 
 // WHITELIST
-var whitelist = ['eostribe','eosdacvietnam','eosfish','eos.sweden','auroraeos','blockmatrix','eossouthafrica','acroeos12345','eosgravity','eoslaomao','eosvenezuela','tokenika','eoseoul','eosdublin','realitybytes','eosdac','starteos','eosrio','cypherglass','testingsteem','eosoceania','eosnewyork','eos-canada','eos42','eosauthority','cryptolions','eoscostarica','eosargentina','eosnation','greymass','eosamsterdam','genereos','meetone','eosgermany','hibitfish','eos-asia','sheos','eosflare'];
+var whitelist = ['helloeos','eostribe','eosdacvietnam','eosfish','eos.sweden','auroraeos','blockmatrix','eossouthafrica','acroeos12345','eosgravity','eoslaomao','eosvenezuela','tokenika','eoseoul','eosdublin','realitybytes','eosdac','starteos','eosrio','cypherglass','testingsteem','eosoceania','eosnewyork','eos-canada','eos42','eosauthority','cryptolions','eoscostarica','eosargentina','eosnation','greymass','eosamsterdam','genereos','meetone','eosgermany','hibitfish','eos-asia','sheos','eosflare'];
 //START
 
       console.log('Bot started. Checking transactions, listening to Block Producers... ');
